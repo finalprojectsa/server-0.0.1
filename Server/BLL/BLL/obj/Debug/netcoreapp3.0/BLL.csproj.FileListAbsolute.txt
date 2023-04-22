@@ -1,0 +1,146 @@
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+Z:\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+Z:\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+Z:\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+Z:\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+Z:\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+Z:\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.dev.json
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.json
+Z:\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.json
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.dev.json
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.AssemblyReference.cache
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.genruntimeconfig.cache
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.json
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.runtimeconfig.dev.json
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.AssemblyReference.cache
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+E:\פרויקט גמר\צד שרת\פרויקט\Server\BLL\BLL\obj\Debug\netcoreapp3.0\BLL.genruntimeconfig.cache

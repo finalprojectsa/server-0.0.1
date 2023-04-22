@@ -1,0 +1,126 @@
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\Final_Project\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏Final_Project - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\‏‏‏‏Final_Project - עותק - עותק\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\צד שרת לפרויקט סופי-עליו עובדים\270322\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+Z:\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+Z:\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+Z:\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+Z:\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+Z:\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+Z:\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+Z:\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+Z:\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+Z:\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+Z:\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+Z:\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר!!!!!!!!!!!!!!!!\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.dev.json
+Z:\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.json
+Z:\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\אסתי אבוביץ\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.json
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.dev.json
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.AssemblyReference.cache
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+D:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.genruntimeconfig.cache
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.json
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.runtimeconfig.dev.json
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.AssemblyReference.cache
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+E:\פרויקט גמר\צד שרת\פרויקט\Server\DTO\DTO\obj\Debug\netcoreapp3.0\DTO.genruntimeconfig.cache

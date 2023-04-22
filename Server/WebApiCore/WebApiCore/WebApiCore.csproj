@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="3.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0-preview8.19405.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0-preview8-19413-06" />
+    <PackageReference Include="Twilio" Version="5.75.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BLL\BLL\BLL.csproj" />
+    <ProjectReference Include="..\..\DAL\DAL\DAL.csproj" />
+    <ProjectReference Include="..\..\DTO\DTO\DTO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BLL">
+      <HintPath>..\..\BLL\BLL\bin\Debug\netcoreapp3.0\BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="DAL">
+      <HintPath>..\..\BLL\BLL\bin\Debug\netcoreapp3.0\DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="DTO">
+      <HintPath>..\..\BLL\BLL\bin\Debug\netcoreapp3.0\DTO.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\Audio\" />
+  </ItemGroup>
+
+</Project>
